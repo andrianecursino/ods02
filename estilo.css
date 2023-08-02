@@ -65,7 +65,7 @@ p {
 }
 
 .main-bg{
-    background-image: url(../IMG/background-dragon-scales.svg);
+    background-image: url(/IMG/background-dragon-scales.svg);
     background-size: cover;
     background-position: center center;
     color: var(--primary-color);

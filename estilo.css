@@ -22,8 +22,7 @@ body{
     font-size: 2rem;
     color: var(--primary-color);
     line-height: 1.5;
-    background-image: url(/IMG/background-dragon-scales.svg);
-
+    
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -67,6 +66,7 @@ p {
 }
 
 .main-bg{
+    background-image: url(./IMG/background-dragon-scales.svg);
     background-size: cover;
     background-position: center center;
     color: var(--primary-color);
